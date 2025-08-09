@@ -1,0 +1,15 @@
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment2-11173490\Interfaces\bin\Debug\net7.0\Interfaces.exe
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment2-11173490\Interfaces\bin\Debug\net7.0\Interfaces.deps.json
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment2-11173490\Interfaces\bin\Debug\net7.0\Interfaces.runtimeconfig.json
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment2-11173490\Interfaces\bin\Debug\net7.0\Interfaces.dll
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment2-11173490\Interfaces\bin\Debug\net7.0\Interfaces.pdb
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment2-11173490\Interfaces\obj\Debug\net7.0\Interfaces.csproj.AssemblyReference.cache
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment2-11173490\Interfaces\obj\Debug\net7.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment2-11173490\Interfaces\obj\Debug\net7.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment2-11173490\Interfaces\obj\Debug\net7.0\Interfaces.AssemblyInfo.cs
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment2-11173490\Interfaces\obj\Debug\net7.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment2-11173490\Interfaces\obj\Debug\net7.0\Interfaces.dll
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment2-11173490\Interfaces\obj\Debug\net7.0\refint\Interfaces.dll
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment2-11173490\Interfaces\obj\Debug\net7.0\Interfaces.pdb
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment2-11173490\Interfaces\obj\Debug\net7.0\Interfaces.genruntimeconfig.cache
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment2-11173490\Interfaces\obj\Debug\net7.0\ref\Interfaces.dll
